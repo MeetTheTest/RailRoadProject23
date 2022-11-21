@@ -15,5 +15,8 @@ public class StationControllerTest {
         System.out.println(stationController.getAllEntities());
         System.out.println(stationController.getAllEntities());
         System.out.println(stationController.getAllEntities());
+        System.out.println(stationController.getAllEntities());
+        System.out.println(stationController.getAllEntities());
+        System.out.println(stationController.getAllEntities());
     }
 }
